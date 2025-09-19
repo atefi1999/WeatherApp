@@ -66,7 +66,7 @@ Visit: http://127.0.0.1:5000 and enter a city name.
 
 ## ▶️ Example Usage
 
-#### Example result shown on page:
+### Example result shown on page:
 
 ```backtick
 Tehran
@@ -76,7 +76,7 @@ Humidity: 40%
 Wind Speed: 3.5 m/s
 ```
 
-#### If the API fails or city is not found, the app shows:
+### If the API fails or city is not found, the app shows:
 
 ```backtick
 City not found or API error.
