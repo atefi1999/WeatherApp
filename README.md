@@ -69,7 +69,7 @@ Visit: http://127.0.0.1:5000 and enter a city name.
 ### Example result shown on page:
 
 ```backtick
-Tehran
+Moscow
 Temperature: 28 °C
 Description: Clear Sky
 Humidity: 40%
