@@ -1,6 +1,6 @@
 # 🌤 Weather App (Flask + OpenWeatherMap)
 
-### A small web app built with Flask that lets users enter a city name and receive current weather information (temperature, description, humidity, wind speed) from the OpenWeatherMap API.
+#### A small web app built with Flask that lets users enter a city name and receive current weather information (temperature, description, humidity, wind speed) from the OpenWeatherMap API.
 
 
 ---
